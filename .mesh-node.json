@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0.0",
+  "node_id": "ryzean84/ryzean84",
+  "namespace": "ryzean84-public",
+  "visibility": "public",
+  "tier": 2,
+  "plane": "control-plane",
+  "parent": null,
+  "description": "Public-facing account profile and public namespace authority.",
+  "hierarchy_tier": "domain-umbrella",
+  "architectural_plane": "control-plane",
+  "depends_on": []
+}
