@@ -1,120 +1,61 @@
 <div align="center">
-  <img src="https://github.com/Ryzean84.png" width="200" style="border-radius: 50%; border: 3px solid #ff0000; box-shadow: 0px 0px 25px #ff0000;" alt="Ryzean84 Avatar"/>
-  <br><br>
-  <h1 style="color: #ff0000; margin-bottom: 0; font-family: monospace;">RYZEAN84 // INTELLIGENCE_DIRECTOR</h1>
+
+# RYZEAN84
+### Open Intelligence · Distributed Systems · Defensive Research
+
+*Building practical, open-source foundations for transparent intelligence workflows and resilient systems.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ryzean84-111827?style=for-the-badge&logo=github)](https://github.com/Ryzean84)
+[![Focus](https://img.shields.io/badge/Focus-Open%20Source-0f766e?style=for-the-badge)](#current-work)
+[![Approach](https://img.shields.io/badge/Approach-Decentralized-334155?style=for-the-badge)](#principles)
+
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Open+Source+Intelligence+(OSINT);Systems+Architecture+&+Engineering;Threat+Data+Telemetry;Security+Analytics+&+Infrastructure;Advanced+Persistent+Threat+(APT)+Tracking" alt="Typing SVG" />
-  </a>
-</p>
+---
+
+## The direction
+
+Ryzean84 is a research and engineering workspace focused on the building blocks of an open, distributed intelligence ecosystem.
+
+The goal is not another monolithic platform. It is a collection of understandable, composable projects that can be inspected, tested, adapted, and connected by the wider open-source community.
+
+## Current work
+
+| Project | Focus | Status |
+|---|---|---|
+| [Open Intelligence Fabric](https://github.com/Ryzean84/Open-Intelligence-Fabric) | Shared architecture and foundations for open intelligence workflows | Early-stage |
+| [OI Swarm Intelligence](https://github.com/Ryzean84/OI-Swarm-Intelligence) | Research into distributed, multi-agent coordination | Early-stage |
+| [OIF Research Observatory](https://github.com/Ryzean84/OIF-Research-Observatory) | Research notes, evaluation, and observability concepts | Early-stage |
+| [Curated Modern OSINT Tools](https://github.com/Ryzean84/Curated-Modern-OSINT-Tools-ForkBy_Ryzean84) | Curated references and community-oriented OSINT resources | Public fork |
+| [Project AVI](https://github.com/Ryzean84/Coming-Soon-Project-AVI-Forkby_Ryzean84) | Project discovery and machine-readable project metadata | Public fork |
+
+Explore the [full repository collection](https://github.com/Ryzean84?tab=repositories).
+
+## Engineering principles
+
+- **Open by design:** prefer inspectable code, documented interfaces, and reproducible workflows.
+- **Decentralized by default:** favor interoperable components over unnecessary centralization.
+- **Security with restraint:** authorized research, least privilege, privacy, and data minimization are baseline requirements.
+- **Evidence over claims:** distinguish working implementations from prototypes, plans, and research.
+- **Small, composable systems:** keep projects lightweight and useful independently.
+- **Human accountability:** automation should be observable, reviewable, and interruptible.
+
+## Areas of exploration
+
+`OSINT` · `Data provenance` · `Threat telemetry` · `Distributed systems` · `Agent coordination` · `AI accountability` · `Security engineering` · `Open standards`
+
+## Collaboration
+
+Contributions, thoughtful issue reports, documentation improvements, and constructive technical review are welcome. Please read each repository's contribution and security guidance before submitting work.
+
+**Use responsibly:** projects in this workspace are for lawful, authorized research and defensive purposes. Repository descriptions indicate intent and maturity, not a claim of production readiness or certification.
+
+---
 
 <div align="center">
-  <code style="color: #ff0000;">[SYS.INIT] // GLOBAL_INTELLIGENCE_NETWORK_ONLINE</code><br>
-  <code style="color: #c9d1d9;">[MODULE] // OSINT_DATA_AGGREGATION_ACTIVE</code><br>
-  <code style="color: #c9d1d9;">[STATUS] // RESEARCH_AND_ANALYSIS_ENGAGED</code>
-</div>
-<br>
 
-## 🔴 // CORE_DIRECTIVE
+**BORRELL & HUFFMAN · OPEN-SOURCE RESEARCH WORKSPACE**
 
-> Architecting high-fidelity intelligence pipelines and secure infrastructures to map, monitor, and mitigate emerging digital threats. Specializing in the intersection of scalable systems engineering and deep-dive data telemetry.
+<sub>Build in the open. Verify the work. Keep systems accountable.</sub>
 
-## 🔴 // INVESTIGATIVE_METHODOLOGIES
-
-<table width="100%" style="background-color: #0d1117; border: 1px solid #ff0000; border-collapse: collapse;">
-  <tr>
-    <th width="25%" align="left" style="border: 1px solid #ff0000; padding: 10px; color: #ff0000;">Intelligence Phase</th>
-    <th width="75%" align="left" style="border: 1px solid #ff0000; padding: 10px; color: #ff0000;">Operational Focus & Techniques</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ff0000; padding: 10px; color: #c9d1d9;"><b>1. Digital Footprinting</b></td>
-    <td style="border: 1px solid #ff0000; padding: 10px; color: #c9d1d9;">Passive domain reconnaissance, WHOIS history, DNS telemetry, and certificate transparency parsing.</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ff0000; padding: 10px; color: #c9d1d9;"><b>2. SOCMINT Analysis</b></td>
-    <td style="border: 1px solid #ff0000; padding: 10px; color: #c9d1d9;">Cross-platform identity mapping, sentiment tracking, and behavioral timeline correlation.</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ff0000; padding: 10px; color: #c9d1d9;"><b>3. Infrastructure Mapping</b></td>
-    <td style="border: 1px solid #ff0000; padding: 10px; color: #c9d1d9;">BGP routing observation, autonomous system (AS) analysis, and service-level fingerprinting.</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ff0000; padding: 10px; color: #c9d1d9;"><b>4. Deep Data Telemetry</b></td>
-    <td style="border: 1px solid #ff0000; padding: 10px; color: #c9d1d9;">Credential leak aggregation, threat actor profiling, and unstructured data ingestion.</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ff0000; padding: 10px; color: #c9d1d9;"><b>5. Geospatial Intelligence</b></td>
-    <td style="border: 1px solid #ff0000; padding: 10px; color: #c9d1d9;">EXIF metadata extraction, satellite imagery correlation, and physical security operational analysis.</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ff0000; padding: 10px; color: #c9d1d9;"><b>6. Financial OSINT</b></td>
-    <td style="border: 1px solid #ff0000; padding: 10px; color: #c9d1d9;">Cryptocurrency ledger tracing, transaction graph analysis, and corporate entity resolution.</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ff0000; padding: 10px; color: #c9d1d9;"><b>7. Network Forensics</b></td>
-    <td style="border: 1px solid #ff0000; padding: 10px; color: #c9d1d9;">Traffic pattern analysis, PCAP parsing, protocol reverse engineering, and malware behavioral analysis.</td>
-  </tr>
-</table>
-
-## 🔴 // TECHNICAL_CAPABILITIES & STACK
-
-<div align="center">
-  <p><b>[ SYS.LANGUAGES // CORE_LOGIC ]</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,rust,go,c,cpp,ruby,php,nodejs,ts&theme=dark&perline=12" alt="Languages" />
-  </a>
-  <br><br>
-  <p><b>[ SYS.INFRASTRUCTURE // CLOUD_ORCHESTRATION ]</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,kubernetes,aws,gcp,nginx,terraform,postgres,mysql,mongodb,redis&theme=dark&perline=12" alt="Infrastructure" />
-  </a>
-  <br><br>
-  <p><b>[ SYS.ANALYSIS // DATA_PROCESSING ]</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elasticsearch,grafana,kafka,rabbitmq,graphql,react,vue,angular&theme=dark&perline=12" alt="Analysis Tools" />
-  </a>
-</div>
-
-## 🔴 // ADVANCED_DATA_AGGREGATION_PIPELINE
-
-```mermaid
-graph TD;
-    classDef coreTheme fill:#000000,stroke:#ff0000,stroke-width:2px,color:#fff;
-    classDef subTheme fill:#0d1117,stroke:#8b0000,stroke-width:1px,color:#c9d1d9;
-    classDef alertTheme fill:#4a0000,stroke:#ff0000,stroke-width:2px,color:#fff;
-
-    A[Clear Web Sources]:::subTheme --> D(Data Ingestion Engine):::coreTheme;
-    B[Dark Web Relays]:::subTheme --> D;
-    C[Social Telemetry]:::subTheme --> D;
-    
-    D --> E{Signal Processing Pipeline}:::coreTheme;
-    E -->|Natural Language Processing| F[Entity Extraction]:::subTheme;
-    E -->|Heuristic Scanning| G[Noise Filtering]:::subTheme;
-    
-    F --> H[(Graph Database)]:::coreTheme;
-    G --> I[(Telemetry Data Lake)]:::coreTheme;
-    
-    H --> J((Threat Analytics & SIEM)):::coreTheme;
-    I --> J;
-    
-    J --> K{Anomaly Detected?}:::coreTheme;
-    K -- Yes --> L[Automated Alerting / CTI Feed]:::alertTheme;
-    K -- No --> M[Continuous Monitoring]:::subTheme;
-```
-
-## 🔴 // ARCHITECTURAL_DESIGN_PATTERNS
-
-- **Zero-Trust Network Access (ZTNA):** Implementing strict identity-based access controls and micro-segmentation across distributed nodes.
-- **Data Lake Telemetry Ingestion:** Designing highly available pipelines for structured and unstructured threat data processing and retention via ELK/Splunk.
-- **Automated Entity Resolution:** Utilizing graph databases (Neo4j) to automatically correlate disparate data points into unified intelligence profiles.
-- **Resilient Cloud Infrastructure:** Orchestrating scalable, fault-tolerant analysis environments using Kubernetes and Terraform on AWS/GCP.
-- **Secure Enclaves:** Deploying isolated, ephemeral sandboxes for malware detonation and untrusted file analysis.
-
-<br>
-
-<div align="center">
-  <hr style="border: 1px solid #8b0000; width: 50%;">
-  <code style="color: #c9d1d9;">[EOF] // END_OF_TRANSMISSION</code>
 </div>
