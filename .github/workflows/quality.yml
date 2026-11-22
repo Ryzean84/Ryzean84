@@ -1,0 +1,49 @@
+name: Repository quality
+
+on:
+  push:
+    branches: [main, "roundhouse/**"]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Validate JSON and Python syntax
+        run: |
+          python - <<'PY'
+          import ast
+          import json
+          from pathlib import Path
+
+          errors = []
+          for path in Path(".").rglob("*.json"):
+              if any(part in {".git", ".venv", "venv", "node_modules"} for part in path.parts):
+                  continue
+              try:
+                  json.loads(path.read_text(encoding="utf-8"))
+              except Exception as exc:
+                  errors.append(f"{path}: invalid JSON: {exc}")
+
+          for path in Path(".").rglob("*.py"):
+              if any(part in {".git", ".venv", "venv", "node_modules"} for part in path.parts):
+                  continue
+              try:
+                  ast.parse(path.read_text(encoding="utf-8"), filename=str(path))
+              except Exception as exc:
+                  errors.append(f"{path}: invalid Python syntax: {exc}")
+
+          if errors:
+              print("\n".join(errors))
+              raise SystemExit(1)
+          print("JSON and Python syntax checks passed.")
+          PY
