@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0.0",
+  "satellites": [
+    {
+      "node_id": "ryzean84/curated-modern-osint-tools-forkby_ryzean84",
+      "uri": "https://github.com/Ryzean84/Curated-Modern-OSINT-Tools-ForkBy_Ryzean84",
+      "version": "1.0.0",
+      "commit": "15e7053c9687424ef80d4b690f7c2b212e507c52",
+      "depends_on": []
+    }
+  ]
+}
